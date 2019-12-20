@@ -152,19 +152,19 @@ class Index extends React.Component {
             content: 'Astronomia',
             image: `${baseUrl}img/undraw_react.svg`,
             imageAlign: 'top',
-            title: 'Feature One',
+            title: 'Astronomia',
           },
           {
             content: 'Curiosidades',
             image: `${baseUrl}img/undraw_operating_system.svg`,
             imageAlign: 'top',
-            title: 'Feature Two',
+            title: 'Curiosidades',
           },
            {
                       content: 'Ufologia',
                       image: `${baseUrl}img/undraw_operating_system.svg`,
                       imageAlign: 'top',
-                      title: 'Feature Three',
+                      title: 'Ufologia',
                     },
         ]}
       </Block>
